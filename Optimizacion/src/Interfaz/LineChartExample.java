@@ -43,7 +43,6 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import optimizacion.Coordenada;
 import optimizacion.Variable;
-
 import org.junit.BeforeClass;
 import org.junit.Test;
 
